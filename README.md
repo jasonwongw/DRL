@@ -1,2 +1,2 @@
-# dqn
+# D
 ![image](https://github.com/jasonwongw/dqn/blob/main/framework.png)
