@@ -1,2 +1,2 @@
-# D
+# DRL
 ![image](https://github.com/jasonwongw/dqn/blob/main/framework.png)
